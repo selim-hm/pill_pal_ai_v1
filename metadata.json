@@ -1,0 +1,7 @@
+{
+  "name": " Pill Pal AI",
+  "description": "An AI-powered assistant to help you identify medications from a photo and answer your questions about them. This application provides information and is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
